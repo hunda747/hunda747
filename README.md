@@ -4,24 +4,17 @@ This is the place where I opensource stuff and break things :rofl:
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning Flutter, Go
 - 💬 &nbsp;Ask me about anything related to Javascript/Node/React/Express/Mysql
-- 📫 &nbsp;How to reach me: [@hunda747](https://twitter.com/gautamkrishnar) or <a rel="me" href="https://fosstodon.org/@gkr">hundaol.org/@gkr</a>
-- 👨‍💻 &nbsp;Read more about my projects at [gautamkrishnar.com](https://www.hundaol.com/#portfolio)
+- 📫 &nbsp;How to reach me: [@hunda747](https://twitter.com/hunda747)
+- 👨‍💻 &nbsp;Read more about my projects at [hundaol.com](https://hundaol.netlify.app/)
 
-📕 &nbsp;**Latest Blog Posts**
-<!-- BLOG-POST-LIST:START -->
-- [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
-- [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
-- [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
-<!-- BLOG-POST-LIST:END -->
 
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
 
-I am a Full Stack Developer with 1+ years of experience in developing enterprise applications and open-source software.
+I am a Full Stack Developer with 2+ years of experience in developing enterprise applications and open-source software.
 
 ### My Opensource Story
-All of my projects are released as open-source on GitHub, this includes some of my GitHub trending projects:
+Most of my projects are released as open-source on GitHub, this includes some of my GitHub trending projects:
 - [Nothing Private](https://github.com/gautamkrishnar/nothing-private) - This project is a proof of concept that any website can identify and track you, even if you are using private browsing or incognito mode in your web browser. It has around 1000K+ users and 1.8K+ stars.  It got discussed in many privacy forums and conferences worldwide. Various privacy-focused browser vendors were able to implement fixes to prevent fingerprinting due to this project. It also made lots of people aware of the bad effects of browser fingerprinting.
 - [Blog Post Workflow](https://github.com/gautamkrishnar/blog-post-workflow) - A Github action to show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed. It is now used by over 5.6K+ users and running on thousands of GitHub actions runner every hour. It is also one of the top 20 [most used](https://github.com/marketplace?category=&query=sort%3Apopularity-desc&type=actions&verification=) GitHub actions internationally in GitHub Marketplace.
 -  [SoCLI](https://github.com/gautamkrishnar/socli) scored 300+ stars within 24 hours of its release. It now has almost 2K+ users. It provides an easy way of accessing StackOverflow even if you are hooked into a terminal.
