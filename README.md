@@ -2,12 +2,12 @@
 
 Welcome to my GitHub profile — I'm **Hundaol**, a passionate **Full Stack Developer** with 3+ years of hands-on experience building robust and scalable web applications.
 
-- 🚀 Currently working with **React**, **Next.js**, and **Spring Boot**
+- 🚀 Currently working with **React**, **Node.js**, and **Spring Boot**
 - 🌱 Always learning and improving my skills in backend systems, cloud deployment, and performance optimization
 - 💡 Skilled at solving real-world problems with clean, maintainable code
 - 🤝 Love working on collaborative projects, mentoring juniors, and leading software teams
 - 🧠 Strong in **data structures**, **algorithms**, and **mathematics**, which help me write efficient code
-- 📫 Let’s connect: [@hunda747](https://twitter.com/hunda747) | Portfolio: [hundaol.com](https://hundaol.netlify.app)
+- 📫 Let’s connect: [@hunda747](https://t.me/hunda747) | Portfolio: [hundaol.com](https://hundaol.netlify.app)
 
 ---
 
@@ -27,12 +27,6 @@ Welcome to my GitHub profile — I'm **Hundaol**, a passionate **Full Stack Deve
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
   <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
 </p>
-
----
-
-### 🔍 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=hundaol&show_icons=true&hide_title=true&hide_rank=false&theme=tokyonight"/>
 
 ---
 
